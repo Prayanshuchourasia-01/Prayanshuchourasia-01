@@ -77,12 +77,12 @@ I’m a passionate and growth‑oriented developer focused on building **real‑
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prayanshuchourasia-01&show_icons=true&theme=tokyonight" height="165" />
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Prayanshuchourasia-01&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prayanshuchourasia-01&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
