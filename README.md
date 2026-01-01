@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prayshanshu Chourasia</h1>
+<h1 align="center">Hi 👋, I'm Prayanshu Chourasia</h1>
 <h3 align="center">Student • Full‑Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
