@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/prayanshu-chourasia-2389812b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:prayanshuchourasia01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=Prayanshuchourasia-01&icon=6&color=0" />
+
 </p>
 
 ---
