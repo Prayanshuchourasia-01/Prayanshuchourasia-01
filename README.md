@@ -1,96 +1,182 @@
 <h1 align="center">Hi 👋, I'm Prayanshu Chourasia</h1>
-<h3 align="center">Student • Full‑Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prayanshu-chourasia-2389812b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prayanshuchourasia01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;DSA+Learner;Exploring+AI%2FML;Building+Real+World+Projects;Always+Learning+Something+New" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/Prayanshuchourasia-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/prayanshuchourasia01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:prayanshuchourasia01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Prayanshu_01/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ✨ About Me
+## 👨‍💻 Who Am I?
 
-I’m a passionate and growth‑oriented developer focused on building **real‑world applications** and continuously improving my **problem‑solving and programming fundamentals**. I enjoy working across **web development and Python**, and I’m always eager to learn new technologies.
+I'm a B.Tech student passionate about software engineering, problem solving, and building applications that solve real-world problems.
 
-* 🔭 Strengthening **core programming & DSA (C++)** through hands‑on projects
-* 🌱 Currently learning **Pandas, NumPy, and Android Development**
-* 👯 Open to collaborating on **web, Python, and open‑source projects**
-* 🤝 Interested in **clean code, scalability, and real‑world AI/ML applications**
-* 🚀 Long‑term interests: **AI/ML, Data Science, and AR/VR technologies**
+My interests span Full Stack Development, Data Structures & Algorithms, AI/ML, and emerging technologies. I enjoy transforming ideas into products while continuously strengthening my technical foundation.
 
-⚡ *Fun fact:* I love turning ideas into real‑world solutions
+---
+
+## 🎯 Current Focus
+
+* 💻 Building Full Stack Applications
+* 🧠 Strengthening DSA & Problem Solving
+* 🤖 Exploring AI/ML Fundamentals
+* 📱 Learning Android Development
+* ⚙️ Improving Backend Development Skills
+* 🚀 Preparing for Software Engineering Opportunities
+
+---
+
+## 🚧 Current Missions
+
+| Mission                              | Progress   |
+| ------------------------------------ | ---------- |
+| 🧠 Solving LeetCode & DSA Daily      | 🟩🟩🟩🟩🟩 |
+| 💻 Building Full Stack Applications  | 🟩🟩🟩🟩⬜  |
+| 🤖 Learning & Training AI/ML Models  | 🟩🟩🟩⬜⬜   |
+| 📱 Android Development Journey       | 🟩🟩⬜⬜⬜    |
+| ⚙️ Strengthening Backend Development | 🟩🟩🟩⬜⬜   |
+| 🚀 Exploring System Design Concepts  | 🟩🟩⬜⬜⬜    |
+| 🌱 Open Source & Collaboration       | 🟩🟩⬜⬜⬜    |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-**Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat\&logo=markdown\&logoColor=white)
-
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
-
-**Backend, Databases & APIs**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat\&logo=npm\&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat\&logo=nodemon\&logoColor=BBDEAD)
-
-**Data Science & AI**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat\&logo=unity\&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-* **Lumino Skills Website** – Skill‑based learning platform
-* **AI Tool Showcase** – Collection of useful AI‑powered tools
-* **Portfolio Website** – Personal portfolio with modern UI
-* **Cafe Portal** – Full‑stack web application
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Prayanshuchourasia-01&theme=tokyonight" height="165" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,postman,figma,tailwind,vite,unity" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Lumino Skills
+
+Skill-based learning platform focused on practical learning and structured growth.
+
+**Tech:** MERN Stack
+
+---
+
+
+## 📊 Developer Dashboard
+
+```text
+👨‍💻 Name        : Prayanshu Chourasia
+🎓 Education   : B.Tech Student
+💡 Focus Area  : Full Stack Development
+🧠 Learning    : Android • AI/ML • Advanced DSA
+🚀 Building    : Real World Applications
+🎯 Goal        : Software Engineer
+📍 Status      : Learning • Building • Improving
+```
+
+---
+
+## 🏆 Coding Profiles
+
+* 💻 GitHub: https://github.com/Prayanshuchourasia-01
+* 🧠 LeetCode: https://leetcode.com/u/Prayanshu_01/
+* 💼 LinkedIn: https://www.linkedin.com/in/prayanshuchourasia01/
+
+---
+## 🏆 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/Prayanshu_01/">
+    <img src="https://img.shields.io/badge/LeetCode-81_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p> 
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
 
 </p>
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prayanshuchourasia-01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
-## 🔝 Top Contributed Repositories
+## 📈 Contribution Graph
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Prayanshuchourasia-01&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prayanshuchourasia-01&theme=tokyo-night" />
 
 ---
 
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+## ⚡ Engineering Principles
+
+```cpp
+while(career_in_progress)
+{
+    learn();
+    build();
+    fail();
+    improve();
+    repeat();
+}
+```
+
+✔ Build before consuming endless tutorials
+
+✔ Focus on fundamentals
+
+✔ Write readable and maintainable code
+
+✔ Consistency over motivation
+
+✔ Learning by building real projects
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Solve 300+ LeetCode Problems
+* [ ] Build 5 Production-Ready Projects
+* [ ] Learn Android Development
+* [ ] Contribute to Open Source
+* [ ] Strengthen Backend & System Design
+* [x] Never Stop Learning
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [prayanshuchourasia01@gmail.com](mailto:prayanshuchourasia01@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/prayanshuchourasia01/
+
+💻 **GitHub:** https://github.com/Prayanshuchourasia-01
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prayanshuchourasia-01&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
