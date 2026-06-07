@@ -160,7 +160,6 @@ while(career_in_progress)
 * [ ] Contribute to Open Source
 * [ ] Strengthen Backend & System Design
 * [x] Never Stop Learning
-
 ---
 
 ## 📫 Connect With Me
@@ -172,11 +171,9 @@ while(career_in_progress)
 💻 **GitHub:** https://github.com/Prayanshuchourasia-01
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prayanshuchourasia-01&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
